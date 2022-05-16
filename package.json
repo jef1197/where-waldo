@@ -1,0 +1,25 @@
+{
+  "name": "where-waldo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "webpack --watch --progress",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jef1197/where-waldo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jef1197/where-waldo/issues"
+  },
+  "homepage": "https://github.com/jef1197/where-waldo#readme"
+}
